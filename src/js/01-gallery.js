@@ -42,3 +42,4 @@ const lightboxOptions = {
 };
 
 const lightboxGallery = new SimpleLightbox(".gallery a", lightboxOptions);
+
